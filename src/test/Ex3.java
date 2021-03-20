@@ -24,7 +24,7 @@ public class Ex3 {
 			// System.out.println("index not found");
 			throw ae;
 		}finally {
-		System.out.println("end : "+c);
+		System.out.println("result : "+c);
 		}
 	}
 
