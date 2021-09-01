@@ -1,7 +1,13 @@
-package test;
+`package test;
 
 public class Ex2 {
 
+	
+	/*
+	 * This is program for explain the exception handling
+	 * 
+	 * 
+	 */
 	public static void main(String[] args) {
 		int a[]= {2,4,5,6};
 		int b=0;
